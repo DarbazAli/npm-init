@@ -20,3 +20,9 @@ The `license` field is whre you inform users of what they are allowed to do with
 ```
 "license": "MIT"
 ```
+
+## Add Version to the package.json
+A `version` is one of the required fields of you package.json file. This field describes the current version of your project.
+```
+"version": "1.2.0"
+```
