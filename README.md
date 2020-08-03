@@ -2,3 +2,9 @@
 One of the most common pieces of information in this file is the author field. It specifies who created the project, and can consist of a string or an object with contact or other details. An object is recommended for bigger projects, but a simple string like the following example will do for this project.
 
 `"author": "Jane Doe",`
+
+## Add a Description to Your package.json
+The next part of a good package.json file is `description` filed, where a short, but informative description about the project belongs.
+
+`description` is a great way to summurize what is the project all about.
+`"description": "A good project that solves a big problem"`
