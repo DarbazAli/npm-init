@@ -51,3 +51,10 @@ To allow an npm dependency to update to the latest PATCH version, you can prefix
 ```
 "package": "~1.3.8"
 ```
+
+## Use the Caret-Character to Use the Latest Minor Version of a Dependency
+Similar to how the tilde we learned about in the last challenge allows npm to install the latest PATCH for a dependency, the caret (^) allows npm to install future updates as well. The difference is that the caret will allow both MINOR updates and PATCHes.
+```
+"package": "^1.3.8"
+```
+This would allow updates to any 1.x.x version of the package.
