@@ -58,3 +58,6 @@ Similar to how the tilde we learned about in the last challenge allows npm to in
 "package": "^1.3.8"
 ```
 This would allow updates to any 1.x.x version of the package.
+
+## Remove a Package from Your Dependencies
+To remvoe a package that you no longer need it, simpley delete the key:value pair in the dependencies field of your package.json file, this will remvoe the packge from your app.
