@@ -8,3 +8,9 @@ The next part of a good package.json file is `description` filed, where a short,
 
 `description` is a great way to summurize what is the project all about.
 `"description": "A good project that solves a big problem"`
+
+## Add keywords to the package.json
+The keywords field is whre you can describe the project using related keyword.
+```
+"keywords": ["discriptive", "related", "words"]
+```
