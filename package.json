@@ -4,5 +4,8 @@
     "description": "A great product that solves a big problem",
     "keywords": ["descriptive", "related", "keywords"],
     "license": "MIT",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "dependencies": {
+        "moment": "2.14.0"
+    }
 }
