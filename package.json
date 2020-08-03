@@ -2,5 +2,6 @@
     "name": "npm-init",
     "author": "Darbaz Ali",
     "description": "A great product that solves a big problem",
-    "keywords": ["descriptive", "related", "keywords"]
+    "keywords": ["descriptive", "related", "keywords"],
+    "license": "MIT"
 }

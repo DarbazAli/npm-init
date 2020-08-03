@@ -14,3 +14,9 @@ The keywords field is whre you can describe the project using related keyword.
 ```
 "keywords": ["discriptive", "related", "words"]
 ```
+
+## Add license to the package.json
+The `license` field is whre you inform users of what they are allowed to do with your project.
+```
+"license": "MIT"
+```
